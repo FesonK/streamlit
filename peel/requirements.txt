@@ -1,0 +1,5 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.24
+# only needed when FTD_MODE=elastic
+# elasticsearch>=8.13
